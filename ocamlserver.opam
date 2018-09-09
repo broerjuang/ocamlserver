@@ -1,0 +1,9 @@
+opam-version: "1.2"
+name: "ocamlserver"
+version: "1.0.0"
+maintainer: "broerjuang <juangwiantoro@gmail.com>"
+
+depends: [
+  "jbuilder" {build}
+  "opium"
+]
